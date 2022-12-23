@@ -32,4 +32,4 @@ What The Boilerplate should be: We'll Cross That Bridge When We Get To It.
 
 Carlo Davila: Footer + Background 
 
-Hunter Steffner:Navbar + Carousel 
+Hunter Steffner: Navbar + Carousel 
